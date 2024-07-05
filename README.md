@@ -1,5 +1,5 @@
 1.Let and Const
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,9 +19,9 @@
     
 </body>
 </html>
-
+```
 2.Arrow Functions
-
+````
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,9 +35,9 @@
     </script>
 </body>
 </html>
-
+````
 3.Template Literals
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,9 +55,9 @@
     </script>
 </body>
 </html>
-
+```
 4.Destructuring Objects
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,9 +77,9 @@
     </script>
 </body>
 </html>
-
+```
 5.Destructuring Arrays
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -98,9 +98,9 @@
     </script>
 </body>
 </html>
-
+```
 6.Spread Operator
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,9 +118,9 @@
     </script>
 </body>
 </html>
-
+```
 7.Rest Parameters
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -140,9 +140,9 @@
     </script>
 </body>
 </html>
-
+```
 8. Default Parameters
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -159,9 +159,9 @@
     </script>
 </body>
 </html>
-
+```
 9.Classes and Inheritance
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -189,9 +189,9 @@ console.log(myDog.bark());
     </script>
 </body>
 </html>
-
+```
 10.Promises and Async/Await
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -214,7 +214,7 @@ run();
 </body>
 </html>
 
-
+```
 
 Output:
 
